@@ -26,6 +26,7 @@ Autodidact in programming languages, I'm currently following the [Python applica
 <p align="center">
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
   <a href="https://www.djangoproject.com"><img src="https://skillicons.dev/icons?i=django"/></a>
+  <a href="https://www.djangoproject.com"><img src="https://skillicons.dev/icons?i=flask"/></a>
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"/></a>
   <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery"/></a>
   <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=html"/></a>

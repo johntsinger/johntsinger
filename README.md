@@ -41,4 +41,7 @@ Autodidact in programming languages, I'm currently following the [Python applica
   <a href="https://www.sqlite.org/index.html"><img src="https://skillicons.dev/icons?i=sqlite"/></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git"/></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=githubactions"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=docker"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=sentry"/></a>
 </p>

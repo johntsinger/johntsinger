@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/>
-
-Autodidact in programming languages, I'm currently following the [Python application developer](https://openclassrooms.com/fr/paths/518-developpeur-dapplication-python) graduate training at [OpenClassrooms.com](https://openclassrooms.com/)
-
-<br/>
-
 #### Languages :
 
 <p align="center">
